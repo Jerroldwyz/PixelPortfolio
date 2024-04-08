@@ -17,8 +17,7 @@ export const dialogueData = {
   bed: `This where I sleep. Sometimes I lie awake, fascinated by the possibilities of this world. Then, I remind 
   myself, that it is within my power to reach the skies.`,
   
-  //todo
-  letter: `This is my desk and on it is my letter of commendation. <a href="" target="_blank">Check it out?</a>
+  letter: `This is my desk and on it is my letter of commendation by the Senior Deputy Vice-Chancellor and Chief Academic Officer, Professor Simon Ridings. <a href="https://github.com/Jerroldwyz/LetterOfCommendation/blob/main/LetterOfCommendation.pdf" target="_blank">Check it out?</a>
   Contact me at jerroldwongyz@gmail.com if you have any interesting job opportunities!`,
   
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.

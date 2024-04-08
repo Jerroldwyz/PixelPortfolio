@@ -5,13 +5,22 @@ import { displayDialogue, setCameScale } from "./utils";
 k.loadSprite("spritesheet", "./spritesheet.png", {
   sliceX: 39,
   sliceY: 31, 
+  // anims: {
+  //   "idle-down": 940,
+  //   "walk-down": { from: 940, to: 943, loop: true, speed: 12 },
+  //   "idle-side": 979,
+  //   "walk-side": { from:979, to: 982, loop: true, speed: 12},
+  //   "idle-up": 1018,
+  //   "walk-up": { from: 1018, to:1021, loop: true, speed: 12}
+  // },
+
   anims: {
-    "idle-down": 940,
-    "walk-down": { from: 940, to: 943, loop: true, speed: 12 },
-    "idle-side": 979,
-    "walk-side": { from:979, to: 982, loop: true, speed: 12},
-    "idle-up": 1018,
-    "walk-up": { from: 1018, to:1021, loop: true, speed: 12}
+    "idle-down": 784,
+    "walk-down": { from: 784, to: 785, loop: true, speed: 12 },
+    "idle-side": 786,
+    "walk-side": { from:786, to: 787, loop: true, speed: 12},
+    "idle-up": 823,
+    "walk-up": { from: 823, to:824, loop: true, speed: 12}
   },
 })
 
