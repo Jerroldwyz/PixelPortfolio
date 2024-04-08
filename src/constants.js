@@ -26,6 +26,8 @@ export const dialogueData = {
   
   library: `There are a lot of books on my shelves. I like reading non-fictional books to learn a variety of topics. I mainly read books
   for personal development, inspiration, and intellectual stimulation. I have a curious mind.`,
+
+  tree: `This is a tree. Just a tree. In a living room.`,
   
   exit: `If you want to exit Jerrold's portfolio, just close the tab.`,
 };
