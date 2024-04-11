@@ -12,7 +12,9 @@ export const dialogueData = {
   <a href="https://www.youtube.com/@harvardbusinessreview" target="_blank">Harvard Business Review</a> and <a href="https://www.youtube.com/@marktilbury" target="_blank">Mark Tilbury (sometimes)</a>! `,
 
   csDegree: `This is my Computer Science degree. I majored in Software Development and I am keen on venturing into frontend or backend development. 
-  I hung it on the wall because I'm proud of it. It was a very pratical degree so I think it gave me a good foundation.`,
+  I hung it on the wall because I'm proud of it. It was a very pratical degree so I think it gave me a good foundation. 
+  Here is my <a href="https://github.com/Jerroldwyz/Documents/blob/main/Testamur%20Official.pdf" target="_blank">Official Testamur</a>
+  `,
 
   bed: `This where I sleep. Sometimes I lie awake, fascinated by the possibilities of this world. Then, I remind 
   myself, that it is within my power to reach the skies.`,
